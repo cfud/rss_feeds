@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="FeedDemon Subscriptions" text="FeedDemon Subscriptions" description="FeedDemon Subscriptions" type="folder">
+      <outline title="Open Source" text="Open Source" description="Open Source" type="folder">
+        <outline title="Planet Ubuntu" text="Planet Ubuntu" description="Planet Ubuntu" type="rss" xmlUrl="http://planet.ubuntu.com/rss20.xml" htmlUrl="http://planet.ubuntu.com/"/>
+        <outline title="The Ubuntu Fridge" text="The Ubuntu Fridge" description="The Ubuntu Fridge" type="rss" xmlUrl="http://fridge.ubuntu.com/node/feed" htmlUrl="http://fridge.ubuntu.com"/>
+        <outline title="Planet GNOME" text="Planet GNOME" description="Planet GNOME" type="atom" xmlUrl="http://planet.gnome.org/atom.xml" htmlUrl="http://planet.gnome.org/"/>
+      </outline>
+      <outline title="articles" text="articles" description="articles" type="folder">
+        <outline title="XAKEP.RU" text="XAKEP.RU" description="XAKEP.RU" type="rss" xmlUrl="http://xakep.ru/feed/" htmlUrl="https://xakep.ru"/>
+        <outline title="VxLab" text="VxLab" description="VxLab" type="rss" xmlUrl="https://vxlab.info/feed/" htmlUrl="https://vxlab.info"/>
+        <outline title="c r y p t o p u n k s" text="c r y p t o p u n k s" description="c r y p t o p u n k s" type="rss" xmlUrl="https://cryptopunks.org/rss.xml" htmlUrl="https://cryptopunks.org"/>
+        <outline title="kaimi" text="kaimi" description="kaimi" type="rss" xmlUrl="https://feeds.feedburner.com/kaimi/dev" htmlUrl="http://kaimi.io"/>
+        <outline title="&#x421;&#x442;&#x430;&#x442;&#x44C;&#x438; - SecurityLab.ru" text="&#x421;&#x442;&#x430;&#x442;&#x44C;&#x438; - SecurityLab.ru" description="&#x421;&#x442;&#x430;&#x442;&#x44C;&#x438; - SecurityLab.ru" type="rss" xmlUrl="http://www.securitylab.ru/_Services/Export/RSS/analytics/" htmlUrl="http://www.securitylab.ru"/>
+        <outline title="&#x425;&#x430;&#x431;&#x440;&#x430;&#x445;&#x430;&#x431;&#x440; / &#x412;&#x441;&#x435; &#x43F;&#x443;&#x431;&#x43B;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x438;" text="&#x425;&#x430;&#x431;&#x440;&#x430;&#x445;&#x430;&#x431;&#x440; / &#x412;&#x441;&#x435; &#x43F;&#x443;&#x431;&#x43B;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x438;" description="&#x425;&#x430;&#x431;&#x440;&#x430;&#x445;&#x430;&#x431;&#x440; / &#x412;&#x441;&#x435; &#x43F;&#x443;&#x431;&#x43B;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x438;" type="rss" xmlUrl="https://habrahabr.ru/rss/all/" htmlUrl="https://habrahabr.ru/"/>
+      </outline>
+      <outline title="blogs" text="blogs" description="blogs" type="folder">
+        <outline title="&#x412;&#x437;&#x440;&#x44B;&#x432;&#x43D;&#x43E;&#x439; &#x431;&#x43B;&#x43E;&#x433;" text="&#x412;&#x437;&#x440;&#x44B;&#x432;&#x43D;&#x43E;&#x439; &#x431;&#x43B;&#x43E;&#x433;" description="&#x412;&#x437;&#x440;&#x44B;&#x432;&#x43D;&#x43E;&#x439; &#x431;&#x43B;&#x43E;&#x433;" type="rss" xmlUrl="http://feeds.feedburner.com/bo0om" htmlUrl="https://bo0om.ru"/>
+        <outline title="Nummer's blog" text="Nummer's blog" description="Nummer's blog" type="atom" xmlUrl="http://www.nummerdev.ru/feeds/posts/default" htmlUrl="http://www.nummerdev.ru/"/>
+        <outline title="Security Intelligence" text="Security Intelligence" description="Security Intelligence" type="rss" xmlUrl="http://feeds.feedburner.com/SecurityIntelligence" htmlUrl="https://securityintelligence.com"/>
+        <outline title="1337 Xakep Blog" text="1337 Xakep Blog" description="1337 Xakep Blog" type="atom" xmlUrl="http://thehukker.blogspot.com/feeds/posts/default" htmlUrl="http://thehukker.blogspot.com/"/>
+        <outline title="securelist.com" text="securelist.com" description="securelist.com" type="rss" xmlUrl="https://securelist.com/feed/" htmlUrl="https://securelist.com"/>
+        <outline title="Dlab - &#x43B;&#x430;&#x431;&#x43E;&#x440;&#x430;&#x442;&#x43E;&#x440;&#x438;&#x44F; &#x43A;&#x438;&#x431;&#x435;&#x440;&#x442;&#x435;&#x445;&#x43D;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x439;" text="Dlab - &#x43B;&#x430;&#x431;&#x43E;&#x440;&#x430;&#x442;&#x43E;&#x440;&#x438;&#x44F; &#x43A;&#x438;&#x431;&#x435;&#x440;&#x442;&#x435;&#x445;&#x43D;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x439;" description="Dlab - &#x43B;&#x430;&#x431;&#x43E;&#x440;&#x430;&#x442;&#x43E;&#x440;&#x438;&#x44F; &#x43A;&#x438;&#x431;&#x435;&#x440;&#x442;&#x435;&#x445;&#x43D;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x439;" type="rss" xmlUrl="https://dlab.im/rss/index/" htmlUrl="https://dlab.im"/>
+        <outline title="&#x411;&#x43B;&#x43E;&#x433; &#x410;&#x440;&#x442;&#x435;&#x43C;&#x430; &#x410;&#x433;&#x435;&#x435;&#x432;&#x430;" text="&#x411;&#x43B;&#x43E;&#x433; &#x410;&#x440;&#x442;&#x435;&#x43C;&#x430; &#x410;&#x433;&#x435;&#x435;&#x432;&#x430;" description="&#x411;&#x43B;&#x43E;&#x433; &#x410;&#x440;&#x442;&#x435;&#x43C;&#x430; &#x410;&#x433;&#x435;&#x435;&#x432;&#x430;" type="rss" xmlUrl="http://www.itsec.pro/feeds/posts/default?alt=rss" htmlUrl="http://www.itsec.pro/"/>
+      </outline>
+      <outline title="exploits" text="exploits" description="exploits" type="folder">
+        <outline title="Exploit-DB updates" text="Exploit-DB updates" description="Exploit-DB updates" type="rss" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com/"/>
+        <outline title="&#x423;&#x44F;&#x437;&#x432;&#x438;&#x43C;&#x43E;&#x441;&#x442;&#x438; - SecurityLab.ru" text="&#x423;&#x44F;&#x437;&#x432;&#x438;&#x43C;&#x43E;&#x441;&#x442;&#x438; - SecurityLab.ru" description="&#x423;&#x44F;&#x437;&#x432;&#x438;&#x43C;&#x43E;&#x441;&#x442;&#x438; - SecurityLab.ru" type="rss" xmlUrl="http://www.securitylab.ru/_Services/Export/RSS/vulnerabilities/" htmlUrl="http://www.securitylab.ru"/>
+      </outline>
+      <outline title="forum" text="forum" description="forum" type="folder">
+        <outline title="&#x424;&#x43E;&#x440;&#x443;&#x43C; &#x410;&#x41D;&#x422;&#x418;&#x427;&#x410;&#x422;" text="&#x424;&#x43E;&#x440;&#x443;&#x43C; &#x410;&#x41D;&#x422;&#x418;&#x427;&#x410;&#x422;" description="&#x424;&#x43E;&#x440;&#x443;&#x43C; &#x410;&#x41D;&#x422;&#x418;&#x427;&#x410;&#x422;" type="rss" xmlUrl="https://forum.antichat.ru/forums/-/index.rss" htmlUrl="https://forum.antichat.ru/"/>
+        <outline title="eXeL@B Forum" text="eXeL@B Forum" description="eXeL@B Forum" type="rss" xmlUrl="https://exelab.ru/f/rss.php" htmlUrl="https://exelab.ru/f/"/>
+        <outline title="Exploit.IN Forum" text="Exploit.IN Forum" description="Exploit.IN Forum" type="rss" xmlUrl="https://forum.exploit.in/rss.php" htmlUrl="https://forum.exploit.in/"/>
+        <outline title="&#x420;&#x430;&#x434;&#x438;&#x43E;&#x443;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x44F;&#x435;&#x43C;&#x44B;&#x435; &#x43C;&#x43E;&#x434;&#x435;&#x43B;&#x438; | &#x424;&#x43E;&#x440;&#x443;&#x43C; RC-Club.by" text="&#x420;&#x430;&#x434;&#x438;&#x43E;&#x443;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x44F;&#x435;&#x43C;&#x44B;&#x435; &#x43C;&#x43E;&#x434;&#x435;&#x43B;&#x438; | &#x424;&#x43E;&#x440;&#x443;&#x43C; RC-Club.by" description="&#x420;&#x430;&#x434;&#x438;&#x43E;&#x443;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x44F;&#x435;&#x43C;&#x44B;&#x435; &#x43C;&#x43E;&#x434;&#x435;&#x43B;&#x438; | &#x424;&#x43E;&#x440;&#x443;&#x43C; RC-Club.by" type="rss" xmlUrl="http://www.rc-club.by/forum/forums/-/index.rss" htmlUrl="http://www.rc-club.by/forum/"/>
+        <outline title="&#x41E;&#x431;&#x437;&#x43E;&#x440; &#x43A;&#x432;&#x430;&#x434;&#x440;&#x43E;&#x43A;&#x43E;&#x43F;&#x442;&#x435;&#x440;&#x43E;&#x432;" text="&#x41E;&#x431;&#x437;&#x43E;&#x440; &#x43A;&#x432;&#x430;&#x434;&#x440;&#x43E;&#x43A;&#x43E;&#x43F;&#x442;&#x435;&#x440;&#x43E;&#x432;" description="&#x41E;&#x431;&#x437;&#x43E;&#x440; &#x43A;&#x432;&#x430;&#x434;&#x440;&#x43E;&#x43A;&#x43E;&#x43F;&#x442;&#x435;&#x440;&#x43E;&#x432;" type="rss" xmlUrl="http://quad-copter.ru/rss/forum/all/feed.rss" htmlUrl="http://quad-copter.ru/forum"/>
+        <outline title="VX Heaven" text="VX Heaven" description="VX Heaven" type="rss" xmlUrl="http://vxheaven.org/forum/extern.php?action=feed&amp;type=rss" htmlUrl="http://vxheaven.org/forum/index.php"/>
+        <outline title="VxLab" text="VxLab" description="VxLab" type="rss" xmlUrl="https://vxlab.info/feed/" htmlUrl="https://vxlab.info"/>
+        <outline title="r0 Crew" text="r0 Crew" description="r0 Crew" type="rss" xmlUrl="https://forum.reverse4you.org/external.php?type=RSS2" htmlUrl="https://forum.reverse4you.org/"/>
+        <outline title="cFUD forum rss" text="cFUD forum rss" description="cFUD forum rss" type="rss" xmlUrl="https://cfud.biz/ru/forums/rss" htmlUrl="https://cfud.biz/ru/"/>
+      </outline>
+      <outline title="movie" text="movie" description="movie" type="folder">
+        <outline title="&#x41A;&#x438;&#x43D;&#x43E;&#x41F;&#x43E;&#x438;&#x441;&#x43A;:  &#x41D;&#x43E;&#x432;&#x43E;&#x441;&#x442;&#x438;" text="&#x41A;&#x438;&#x43D;&#x43E;&#x41F;&#x43E;&#x438;&#x441;&#x43A;:  &#x41D;&#x43E;&#x432;&#x43E;&#x441;&#x442;&#x438;" description="&#x41A;&#x438;&#x43D;&#x43E;&#x41F;&#x43E;&#x438;&#x441;&#x43A;:  &#x41D;&#x43E;&#x432;&#x43E;&#x441;&#x442;&#x438;" type="rss" xmlUrl="https://www.kinopoisk.ru/news.rss" htmlUrl="https://www.kinopoisk.ru"/>
+      </outline>
+      <outline title="news" text="news" description="news" type="folder">
+        <outline title="&#x41D;&#x43E;&#x432;&#x43E;&#x441;&#x442;&#x438; - SecurityLab.ru" text="&#x41D;&#x43E;&#x432;&#x43E;&#x441;&#x442;&#x438; - SecurityLab.ru" description="&#x41D;&#x43E;&#x432;&#x43E;&#x441;&#x442;&#x438; - SecurityLab.ru" type="rss" xmlUrl="http://www.securitylab.ru/_Services/Export/RSS/news/" htmlUrl="http://www.securitylab.ru"/>
+        <outline title="The Hacker News" text="The Hacker News" description="The Hacker News" type="rss" xmlUrl="http://feeds.feedburner.com/TheHackersNews" htmlUrl="http://thehackernews.com/"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
